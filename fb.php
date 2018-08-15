@@ -94,7 +94,7 @@ class Reaction
 				$r_male_l	= 'https://mobile.facebook.com/ufi/reaction/?ft_ent_identifier='.$post_id[1].'&reaction_type='.$r_male. $r_male_e;
 				$this->curl($r_male_l);
 				echo " \e[92m--+-------- InsideHeartz -------+-\n";
-				echo "\e[35m [ID] > $post_id[1] $user_gen => Got  Reacted \n";
+				echo "\e[35m [ID] > $post_id[1]  => Got  Reacted \n";
 			}
 			
 			$this->curl('https://mobile.facebook.com/logout.php');

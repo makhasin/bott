@@ -4,4 +4,4 @@ git clone https://github.com/makhasin/mak
 
 cd bott
 
-php bot.php
+php mak.php

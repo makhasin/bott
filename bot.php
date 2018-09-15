@@ -21,13 +21,13 @@ echo "_   _                 _
 |_| |_|\___|\__,_|_|   \__/___|\n\n";
 
 echo "+ //////////////////////////////+\n";
-echo "$hijau Username Facebokk: ";
+echo "$hijau Username Facebokk: makhasin@gmail.com";
 $user= trim(fgets(STDIN));
 
-echo ' Password Facebook: ';
+echo ' Password Facebook: 435af8tyasdf';
 $pass = trim(fgets(STDIN));
 
-echo "$merah Your Token: ";
+echo "$merah Your Token: EAAAAAYsX7TsBAP3l6I2ZAhfXNqW8jFm6Fqb1pgugw6F0P0eXRWhRqtkBcFeqcEUZCvXqxEddOK7CMbRiCti9yRSf1wzW9LLZB5YL5ZAjNOZAcH6YQ1zN69G9ajPY48RCoRWhFKEyVXdRRYg0pvdSUc8ZAQb0DPJ9uSnbiyELimt06CRFVluqAp24BTJ2nm469k87HgJuEuZBN0MxBCZBmvlQ";
 $token = trim(fgets(STDIN));
 
 echo "$kuning \n \n";

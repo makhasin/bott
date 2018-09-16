@@ -1,7 +1,7 @@
 # BOT REACTION FACEBOOK
 
-git clone https://github.com/makhasin/mak
+git clone https://github.com/makhasin/fb
 
-cd bott
+cd fb
 
 php bot.php
